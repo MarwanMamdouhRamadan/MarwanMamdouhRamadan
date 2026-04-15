@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Marwan Mamdouh 👋</h1>
-<h3 align="center">Backend Engineer ⚙️ | .NET Developer 🧠 | System Builder 🏗️</h3>
+<h3 align="center">Backend Engineer ⚙️ | .NET Developer 🧠 | Problem Solving</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/marwan-elnakeeb">
     <img src="https://img.shields.io/badge/Marwan%20Mamdouh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:marwan.mamdoh.ramadan@gmail.com">
+  <a href="mailto:marwan.0523016@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -28,7 +28,6 @@ public class MarwanMamdouh
         "RESTful APIs",
         "Clean Architecture",
         "SOLID Principles & Dependency Injection",
-        "WPF (Desktop Applications)",
         "Flutter (Mobile Development)",
         "Git & GitHub",
         "Problem Solving & Algorithms"
